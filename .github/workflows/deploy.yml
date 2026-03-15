@@ -23,4 +23,3 @@ jobs:
         with:
           push: true
           tags: ${{ secrets.DOCKER_USERNAME }}/devops-project-1:latest
-9
